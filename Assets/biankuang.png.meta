@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: cbbfe51b2d913564fa2eb3cdfbc749c2
+timeCreated: 1473125873
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: biankuang_1
+    21300002: biankuang_0
+    21300004: biankuang_2
+    21300006: biankuang_3
+    21300008: biankuang_4
+    21300010: biankuang_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: biankuang_1
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 853
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: biankuang_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 162
+        width: 60
+        height: 637
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 318.5}
+        - {x: -29, y: 314.5}
+        - {x: -30, y: 311.5}
+        - {x: -30, y: 290.5}
+        - {x: -19, y: 290.5}
+        - {x: -19, y: -289.5}
+        - {x: -24, y: -290.5}
+        - {x: -30, y: -296.5}
+        - {x: -30, y: -316.5}
+        - {x: -28, y: -318.5}
+        - {x: 30, y: -318.5}
+        - {x: 30, y: 318.5}
+    - name: biankuang_2
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 795
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 49}
+        - {x: -47, y: 48}
+        - {x: -47, y: -49}
+        - {x: 39, y: -49}
+        - {x: 48, y: -41}
+        - {x: 48, y: 49}
+    - name: biankuang_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 837
+        width: 518
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -259, y: 25}
+        - {x: -259, y: -25}
+        - {x: 259, y: -25}
+        - {x: 259, y: 25}
+    - name: biankuang_4
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 799
+        width: 94
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: 50}
+        - {x: -47, y: -50}
+        - {x: 47, y: -50}
+        - {x: 47, y: 50}
+    - name: biankuang_5
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 166
+        width: 56
+        height: 633
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 316.5}
+        - {x: -28, y: -316.5}
+        - {x: 28, y: -316.5}
+        - {x: 28, y: 316.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
